@@ -14,7 +14,7 @@ In this branch you'll find:
 
 ## Variations
 
-This project hosts each sample app in separate repository branches. For more information, see the `README.md` file in each branch.  
+This project hosts each sample app in separate repository branches. For more information, see the `README.md` file in each branch.      
 
 ### Stable samples - Kotlin
 |     Sample     | Description |
